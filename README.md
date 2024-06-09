@@ -1,6 +1,6 @@
 ## About
 
-**This, a Crowdsourcing smartcontract -- FundMe-- that receives ETH donations of at least $5 in value, is my first Foundry project inspired by the Cyfrin Updraft Patrick Colins' Foundry Course.**
+**This, a Crowdfunding smartcontract -- FundMe-- that receives ETH donations of at least $5 in value, is my first Foundry project inspired by the Cyfrin Updraft Patrick Colins' Foundry Course.**
 
 This repo consists of:
 
